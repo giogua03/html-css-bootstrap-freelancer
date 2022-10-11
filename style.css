@@ -1,4 +1,20 @@
-.container{
-    margin: 1rem;
-    background-color: blueviolet;
+.green{
+    
+    background-color: greenyellow;
+    
+   
+}
+body{
+    padding-top: 3.5rem;
+}
+.grey{
+    background-color: gray;
+    
+}
+img{
+    width: 200px;
+}
+h1{
+    padding-top: 2rem;
+    
 }

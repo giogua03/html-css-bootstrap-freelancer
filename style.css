@@ -18,3 +18,22 @@ h1{
     padding-top: 2rem;
     
 }
+.offcanvas-body .nav-link:hover{
+    color: green;
+}
+.btn-martin{
+    margin: 1rem;
+}
+.start{
+    text-align: left;
+}
+.btn-green{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    justify-content: flex-start;
+    display: flex;
+}
+.pluss-hover:hover{
+    background-color: green;
+    opacity: 0.4;
+}
